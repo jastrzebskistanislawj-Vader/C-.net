@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Metody w C#/">
+    <Project Path="Metody w C#/MetodyWCSharp.csproj" />
+  </Folder>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="FormatAlfanumericData/FormatAlfanumericData.csproj" />
+  <Project Path="LessonDataTypes/LessonDataTypes.csproj" />
+  <Project Path="OperacjeNaTablicach/OperacjeNaTablicach.csproj" />
+</Solution>
