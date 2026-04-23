@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Metody w C# v2/">
+    <Project Path="Metody w C# v2/MetodyWCSharpV2.csproj" />
+  </Folder>
   <Folder Name="/Metody w C#/">
     <Project Path="Metody w C#/MetodyWCSharp.csproj" />
   </Folder>
